@@ -20,4 +20,4 @@ Este projeto faz parte do curso onde aprendemos a implementar filtros de exibiç
   - **Botões de categoria** (Mobile, Front-End e Data Science) para organizar e filtrar os vídeos exibidos.
 
 ## Acesse o projeto por aqui ⬇️
-
+https://vidflow-projeto.vercel.app/
